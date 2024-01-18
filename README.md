@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/antoniobajivic/antoniobajivic/blob/master/devcard.svg" width="400" alt="Antonio Bajivić's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/antoniobajivic/antoniobajivic/blob/1ca8e90696f5dc9e0497635494854f8123efe6da/devcard.svg" width="400" alt="Antonio Bajivić's Dev Card"/></a>
